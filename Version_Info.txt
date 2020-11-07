@@ -1,0 +1,30 @@
+
+   Key Legend:
+                -- = current version
+                -wor: = working on this ver
+                 <-x_x-> = bug
+                 |x_x| = bug fixed
+                 <-o_o-> = design issue
+                 |o_o| = design issue fixed
+
+
+                     ~Updating to repo~
+               | --------------------------- |
+               | v# : Short Version Title    |
+               | Description: v# description |
+               | --------------------------- |
+
+----------------------------    ----------------------------   ------------------------- ------------------------------
+v0 Adding Reference Materials: This is a compile of py examples to aid in my development in python. Most of this either
+                                comes from physical books,W3, and self addons for python materials. Will go into depth
+                                after completing some other objectives relating to a different subject.
+
+                                Planning to increase python knowledge to make an Ai & improve a site concept for a side hobby
+                                of mines. Besides that hope to help anybody that wishes to learn python and improve
+                                their coding skills!
+
+                                Will make this the main respo for any new python references until an update occurs. Besides
+                                that have some fun, expirment, and learn.
+
+--v1 Add Code Files to Github: Add current code to github, the rest are on local mach and backups, will slowly add them to
+                                the github over time, will update this code as well. Have some big plans ahead ^_*
