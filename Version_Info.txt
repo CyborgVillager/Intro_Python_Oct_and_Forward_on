@@ -30,4 +30,6 @@ v1 Add Code Files to Github: Add current code to github, the rest are on local m
                                 the github over time, will update this code as well. Have some big plans ahead ^_*
 
 
---v2 Delete Old Venv: Just deleted an old venv to prevent and issues once you download it onto your machine
+v2 Delete Old Venv: Just deleted an old venv to prevent and issues once you download it onto your machine
+
+--v2.5 Correct Misspelling: Just deleted an old venv to prevent any issues once you download it onto your machine
