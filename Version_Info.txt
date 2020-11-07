@@ -26,5 +26,8 @@ v0 Adding Reference Materials: This is a compile of py examples to aid in my dev
                                 Will make this the main respo for any new python references until an update occurs. Besides
                                 that have some fun, expirment, and learn.
 
---v1 Add Code Files to Github: Add current code to github, the rest are on local mach and backups, will slowly add them to
+v1 Add Code Files to Github: Add current code to github, the rest are on local mach and backups, will slowly add them to
                                 the github over time, will update this code as well. Have some big plans ahead ^_*
+
+
+--v2 Delete Old Venv: Just deleted an old venv to prevent and issues once you download it onto your machine
